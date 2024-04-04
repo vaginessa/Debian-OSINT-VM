@@ -1,0 +1,25 @@
+Change DNS:
+
+nano /etc/resolv.conf
+
+NEVER remove the line that says nameserver 127.0.0.53. Comment it out by putting a pound/hash symbol at the beginning of that line.
+
+add nameservers
+
+nameserver 1.1.1.2
+nameserver 1.0.0.2
+
+check with this command - dig google.com | grep SERVER
+
+sudo apt-get install resolvconf -y
+
+nano /etc/resolvconf/resolv.conf.d/head
+
+add nameservers
+
+nameserver 1.1.1.2
+nameserver 1.0.0.2
+
+
+sudo systemctl enable --now resolvconf.service
+
