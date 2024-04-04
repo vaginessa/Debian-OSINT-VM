@@ -10,7 +10,11 @@ Python 3.11.2
 
 Downloads:
 
-Protonvpn, tor browser, draw.io, google earth pro, google chrome
+Burp Suite, Metasploit, Protonvpn, tor browser, draw.io, google earth pro, google chrome
+
+https://portswigger.net/burp/communitydownload
+
+https://apt.metasploit.com/
 
 https://protonvpn.com/
 
