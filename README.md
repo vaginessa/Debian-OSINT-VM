@@ -1,6 +1,7 @@
 # Debian_OSINT_Tools
-OSINT Tools you will need to participate in a OSINT search party, or to practice on your own. 
 
+OSINT tools you will need when researching a target. 
+ 
 These scripts are intended to be used on Debian 12
 
 Version of Python used:
