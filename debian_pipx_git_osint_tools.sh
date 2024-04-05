@@ -158,8 +158,10 @@ cd gophish
 wget https://github.com/gophish/gophish/releases/download/v0.12.1/gophish-v0.12.1-linux-64bit.zip
 unzip gophish-v0.12.1-linux-64bit.zip
 rm gophish-v0.12.1-linux-64bit.zip
+wget https://github.com/tomnomnom/gron/releases/download/v0.7.1/gron-linux-amd64-0.7.1.tgz
+tar xzf gron-linux-amd64-0.7.1.tgz
+rm gron-linux-amd64-0.7.1.tgz
 cd
-
 go install github.com/tomnomnom/waybackurls@latest
 go install -v github.com/owasp-amass/amass/v4/...@master
 go install github.com/OJ/gobuster/v3@latest
