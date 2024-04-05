@@ -153,7 +153,6 @@ pip install -r requirements.txt
 deactivate
 cd ~/programs/
 git clone https://github.com/RedSiege/EyeWitness.git
-
 mkdir gophish
 cd gophish
 wget https://github.com/gophish/gophish/releases/download/v0.12.1/gophish-v0.12.1-linux-64bit.zip
