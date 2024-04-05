@@ -32,6 +32,8 @@ firefox containers, ublock origin, downthemall, bulk media downloader, fireshot,
 
 search by image, ressurrect pages, web archives, copy selected links, onetab, stream detector, joplin webclipper, foxyproxy, adguard, javascript toggle on and off, ghunt companion, download all images, keepassxc
 
+the firefox extension store, firefox ADD-Ons, has a lot of useful AI web extensions, and other extensions that can aid in your research. 
+
 chrome web store extensions:
 
 InVID WeVerify, ublock origin, adguard, downthemall, fireshot, singleFile, onetab, reveye reverse search, web archives
