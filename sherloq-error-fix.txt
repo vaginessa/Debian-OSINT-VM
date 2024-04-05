@@ -1,0 +1,10 @@
+deleting line 13 from sherloq/gui/noiseprint/utility/utilityRead.py and editing line 83 to remove the convert_dict_qtables call. Will fix error on sherloq gui.
+
+
+on line 83 delete the following phrase:
+
+(convert_dict_qtables(Image.open(stream).quantization)[tnum]).reshape((8, 8))
+
+new line should look like the following
+
+h = np.asarray
