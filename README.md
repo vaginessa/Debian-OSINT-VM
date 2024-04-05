@@ -32,9 +32,12 @@ firefox containers, ublock origin, downthemall, bulk media downloader, fireshot,
 
 search by image, ressurrect pages, web archives, copy selected links, onetab, stream detector, joplin webclipper, foxyproxy, adguard, javascript toggle on and off, ghunt companion, download all images, keepassxc
 
-chrome store extensions:
+chrome web store extensions:
 
-InVID WeVerify
+InVID WeVerify, ublock origin, adguard, downthemall, fireshot, singleFile, onetab, reveye reverse search, web archives
+
+the chrome web store has a lot of useful AI web extensions, and other extensions that can aid in your research.
+
 
 If you have read OSINT Techniques by Matthew Bazzell I would
 
