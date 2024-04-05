@@ -10,6 +10,8 @@ apt install keepassxc remmina stegosuite exifprobe ruby-bundler mpg123 -y
 apt install thunderbird curl sq python3-lxml libre-dev  -y
 apt install snapd golang -y
 apt install autopsy sqlitebrowser -y
+apt install build-essential libcurl4-openssl-dev libxml2 libxml2-dev -y 
+apt install libxslt1-dev libgmp-dev zlib1g-dev -y
 
 systemctl enable ufw
 ufw enable
@@ -18,10 +20,9 @@ systemctl enable ssh
 systemctl start postgresql
 systemctl enable postgresql
 
-
 gem install mechanize
 gem install colorize
-
+gem install wpscan
 
 snap install seclists
 snap install drawio
