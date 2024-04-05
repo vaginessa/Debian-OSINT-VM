@@ -87,6 +87,13 @@ python3 -m venv wmn-pythonEnv
 source wmn-pythonEnv/bin/activate
 pip install -r requirements.txt
 deactivate
+cd ~/programs/
+git clone https://github.com/GuidoBartoli/sherloq.git
+cd sherloq/gui
+python3 -m venv sherloqEnvironment
+source sherloqEnvironment/bin/activate
+pip install -r requirements.txt
+deactivate
 
 cd ~/programs/
 git clone https://github.com/hatlord/Spiderpig.git
