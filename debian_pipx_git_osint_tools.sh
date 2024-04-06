@@ -103,6 +103,9 @@ git clone https://github.com/lolwaleet/ReverseIP.git
 git clone https://github.com/Raikia/UhOh365.git
 git clone https://github.com/4n4nk3/Wordlister.git
 git clone https://github.com/netlas-io/netlas-scripts.git
+git clone https://github.com/HACK3RY2J/Anon-SMS.git
+git clone https://github.com/MohammedAlsubhi/instashell-master.git
+git clone https://github.com/pvanfas/socialphish.git
 
 cd ~/programs/
 git clone https://github.com/laramies/theHarvester.git
