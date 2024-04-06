@@ -102,6 +102,7 @@ git clone https://github.com/BillyV4/ID-entify.git
 git clone https://github.com/lolwaleet/ReverseIP.git
 git clone https://github.com/Raikia/UhOh365.git
 git clone https://github.com/4n4nk3/Wordlister.git
+git clone https://github.com/netlas-io/netlas-scripts.git
 
 cd ~/programs/
 git clone https://github.com/laramies/theHarvester.git
