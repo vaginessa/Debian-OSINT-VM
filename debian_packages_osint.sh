@@ -23,6 +23,7 @@ systemctl enable postgresql
 gem install mechanize
 gem install colorize
 gem install wpscan
+gem install evil-winrm
 
 snap install seclists
 snap install drawio
