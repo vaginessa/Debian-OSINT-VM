@@ -10,7 +10,9 @@ Python 3.11.2
 
 Downloads:
 
-Burp Suite, Metasploit, Protonvpn, tor browser, draw.io, google earth pro, google chrome
+Latest Version of Go, Burp Suite, Metasploit, Protonvpn, tor browser, draw.io, google earth pro, google chrome
+
+https://go.dev/dl/
 
 https://portswigger.net/burp/communitydownload
 
@@ -25,6 +27,10 @@ https://github.com/jgraph/drawio-desktop/releases/tag/v23.0.2
 https://www.google.com/earth/about/versions/
 
 https://support.google.com/chrome/a/answer/9025903?hl=en
+
+After you download the latest version of Go find go.sh and run the following command:
+
+bash go.sh
 
 firefox extensions:
 
