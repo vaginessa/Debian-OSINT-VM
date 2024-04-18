@@ -8,6 +8,19 @@ Version of Python used:
 
 Python 3.11.2
 
+Download and install debian 12 on your machine, then run the following commands:
+
+sudo bash debian_packages_osint.sh
+
+sudo bash snoint.sh
+
+bash debian_pipx_git_osint_tools.sh
+
+After you download the latest version of Go find go.sh and run the following command:
+
+bash go.sh
+
+
 Downloads:
 
 Latest Version of Go, Maltego, Burp Suite, Metasploit, Protonvpn, tor browser, draw.io, google earth pro, google chrome
@@ -30,9 +43,7 @@ https://www.google.com/earth/about/versions/
 
 https://support.google.com/chrome/a/answer/9025903?hl=en
 
-After you download the latest version of Go find go.sh and run the following command:
 
-bash go.sh
 
 firefox extensions:
 
