@@ -22,7 +22,7 @@ Go to the downloads page and download the binary release for linux amd64
 
 Extract the archive file
 
-sudo tar -C /usr/local -xzf /home/$USER/Downloads/go.{version of GO}linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf /home/$USER/Downloads/go{version of GO}linux-amd64.tar.gz
 
 Make sure that your PATH contains /usr/local/go/bin
 
