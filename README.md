@@ -16,7 +16,7 @@ sudo bash snoint.sh
 
 bash debian_pipx_git_osint_tools.sh
 
-Download the latest version of Go find go.sh and run the following command:
+Download the latest version of Go
 
 bash go.sh
 
