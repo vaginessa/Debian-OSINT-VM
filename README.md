@@ -10,9 +10,11 @@ Python 3.11.2
 
 Downloads:
 
-Latest Version of Go, Burp Suite, Metasploit, Protonvpn, tor browser, draw.io, google earth pro, google chrome
+Latest Version of Go, Maltego, Burp Suite, Metasploit, Protonvpn, tor browser, draw.io, google earth pro, google chrome
 
 https://go.dev/dl/
+
+https://www.maltego.com/downloads/
 
 https://portswigger.net/burp/communitydownload
 
