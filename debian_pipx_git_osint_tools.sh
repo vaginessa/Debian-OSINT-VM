@@ -177,3 +177,4 @@ rm gron-linux-amd64-0.7.1.tgz
 wget https://github.com/TermuxHackz/anonphisher/releases/download/3.3.2/anonphisher_3.3.2_all.deb
 
 cd
+git clone https://github.com/BigggChungus/onion-links.git
