@@ -178,3 +178,4 @@ wget https://github.com/TermuxHackz/anonphisher/releases/download/3.3.2/anonphis
 
 cd
 git clone https://github.com/BigggChungus/onion-links.git
+git clone https://github.com/01Kevin01/OnionLinksV3.git
