@@ -180,3 +180,8 @@ cd
 git clone https://github.com/BigggChungus/onion-links.git
 git clone https://github.com/01Kevin01/OnionLinksV3.git
 git clone https://github.com/The-Hidden-Wiki-URLs/2024.git
+
+mkdir .config/amass
+cd .config/amass
+git clone https://github.com/proabiral/Fresh-Resolvers.git
+cd
