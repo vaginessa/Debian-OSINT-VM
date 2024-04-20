@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-apt install ruby-dev nmap wireshark tcpdump ufw postgresql -y
+apt install ruby-dev nmap wireshark tcpdump ufw postgresql php -y
 apt install git python3-venv pipx httrack webhttrack filezilla -y
 apt install mycli hexchat gajim audacity gimp inkscape librecad ffuf -y
 apt install mediainfo-gui libimage-exiftool-perl mat2 tor vlc marble -y
