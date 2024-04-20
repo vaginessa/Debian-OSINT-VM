@@ -31,3 +31,4 @@ snap install dbeaver-ce
 snap install powershell --classic
 snap install joplin-desktop
 snap install youtube-dl-pro
+snap install ngrok
