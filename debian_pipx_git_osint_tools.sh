@@ -173,5 +173,6 @@ rm gophish-v0.12.1-linux-64bit.zip
 wget https://github.com/tomnomnom/gron/releases/download/v0.7.1/gron-linux-amd64-0.7.1.tgz
 tar xzf gron-linux-amd64-0.7.1.tgz
 rm gron-linux-amd64-0.7.1.tgz
+wget https://github.com/TermuxHackz/anonphisher/releases/download/3.3.2/anonphisher_3.3.2_all.deb
 
 cd
