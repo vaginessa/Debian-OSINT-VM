@@ -177,10 +177,13 @@ rm gron-linux-amd64-0.7.1.tgz
 wget https://github.com/TermuxHackz/anonphisher/releases/download/3.3.2/anonphisher_3.3.2_all.deb
 
 cd
+mkdir tor-links
+cd tor-links
 git clone https://github.com/BigggChungus/onion-links.git
 git clone https://github.com/01Kevin01/OnionLinksV3.git
 git clone https://github.com/The-Hidden-Wiki-URLs/2024.git
 
+cd
 mkdir ~/.config/amass
 cd .config/amass
 git clone https://github.com/proabiral/Fresh-Resolvers.git
