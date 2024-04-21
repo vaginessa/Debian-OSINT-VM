@@ -8,3 +8,4 @@ go install -v github.com/owasp-amass/oam-tools/cmd/...@master
 
 wget https://github.com/sensepost/gowitness/releases/download/2.5.1/gowitness-2.5.1-linux-amd64
 mv gowitness-2.5.1-linux-amd64 ~/go/bin
+go install github.com/projectdiscovery/katana/cmd/katana@latest
