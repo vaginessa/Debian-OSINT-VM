@@ -33,7 +33,7 @@ bash go.sh
 
 Downloads:
 
-Latest Version of Go, Maltego, Burp Suite, Metasploit, Protonvpn, tor browser, draw.io, google earth pro, google chrome
+Latest Version of Go, Maltego, Burp Suite, Metasploit, Protonvpn, tor browser, google earth pro, google chrome
 
 https://go.dev/dl/
 
@@ -46,8 +46,6 @@ https://apt.metasploit.com/
 https://protonvpn.com/
 
 https://www.torproject.org/download/
-
-https://github.com/jgraph/drawio-desktop/releases/tag/v23.0.2
 
 https://www.google.com/earth/about/versions/
 
