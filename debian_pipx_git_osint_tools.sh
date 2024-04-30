@@ -16,7 +16,6 @@ pipx install whisper-ctranslate2
 pipx install checkdmarc
 pipx install shodan
 pipx install netlas
-pipx install yt-dlp
 pipx ensurepath
 
 cd
