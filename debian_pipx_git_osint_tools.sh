@@ -107,7 +107,6 @@ git clone https://github.com/HACK3RY2J/Anon-SMS.git
 git clone https://github.com/MohammedAlsubhi/instashell-master.git
 git clone https://github.com/RedSiege/EyeWitness.git
 git clone https://github.com/TermuxHackz/X-osint
-git clone https://github.com/pvanfas/socialphish.git
 
 cd ~/programs/
 git clone https://github.com/laramies/theHarvester.git
