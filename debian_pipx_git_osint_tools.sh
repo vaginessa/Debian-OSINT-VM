@@ -109,6 +109,11 @@ git clone https://github.com/RedSiege/EyeWitness.git
 git clone https://github.com/TermuxHackz/X-osint
 git clone https://github.com/proabiral/Fresh-Resolvers.git
 
+python3 -m venv proxybroker2
+source proxybroker2/bin/activate
+pip install -U git+https://github.com/bluet/proxybroker2.git
+deactivate
+
 
 cd ~/programs/
 git clone https://github.com/laramies/theHarvester.git
