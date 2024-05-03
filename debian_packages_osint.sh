@@ -33,3 +33,4 @@ snap install joplin-desktop
 snap install youtube-dl-pro
 snap install ngrok
 snap install localxpose
+snap install telegram-desktop
