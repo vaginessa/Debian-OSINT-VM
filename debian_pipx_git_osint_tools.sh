@@ -182,6 +182,12 @@ wget https://github.com/tomnomnom/gron/releases/download/v0.7.1/gron-linux-amd64
 tar xzf gron-linux-amd64-0.7.1.tgz
 rm gron-linux-amd64-0.7.1.tgz
 wget https://github.com/TermuxHackz/anonphisher/releases/download/3.3.2/anonphisher_3.3.2_all.deb
+mkdir yt-dlp
+cd yt-dlp
+wget https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp
+wget https://github.com/yt-dlp/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-linux64-gpl.tar.xz
+tar -xf ffmpeg-master-latest-linux64-gpl.tar.xz
+rm ffmpeg-master-latest-linux64-gpl.tar.xz
 
 cd
 mkdir tor-links
