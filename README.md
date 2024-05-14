@@ -18,6 +18,8 @@ bash debian_pipx_git_osint_tools.sh
 
 sudo bash change_dns.sh
 
+reboot
+
 Download the latest version of Go
 
 Go to the downloads page and download the binary release for linux amd64
