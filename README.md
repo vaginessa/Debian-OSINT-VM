@@ -8,7 +8,9 @@ Version of Python used:
 
 Python 3.11.2
 
-Download and install debian 12 on your machine, then run the following commands:
+**Install:**
+
+Download and install debian 12 on your machine
 
 sudo bash debian_packages_osint.sh
 
@@ -20,9 +22,9 @@ sudo bash change_dns.sh
 
 reboot
 
-Download the latest version of Go
+**How to install latest version of Go:**
 
-Go to the downloads page and download the binary release for linux amd64
+Download the latest version of Go
 
 Extract the archive file
 
@@ -32,10 +34,12 @@ Make sure that your PATH contains /usr/local/go/bin
 
 echo $PATH | grep "/usr/local/go/bin"
 
+**Install go packages:**
+
 bash go.sh
 
 
-Downloads:
+**Downloads:**
 
 Latest Version of Go, Maltego, Burp Suite, Metasploit, Protonvpn, tor browser, google earth pro, google chrome
 
@@ -57,7 +61,7 @@ https://support.google.com/chrome/a/answer/9025903?hl=en
 
 
 
-firefox extensions:
+**firefox extensions:**
 
 firefox containers, ublock origin, downthemall, bulk media downloader, fireshot, nimbus, singleFile, exifviewer, user agent switcher, image search options, reveye reverse search,
 
@@ -65,7 +69,7 @@ search by image, ressurrect pages, web archives, copy selected links, onetab, st
 
 the firefox extension store, firefox ADD-Ons, has a lot of useful AI web extensions, and other extensions that can aid in your research. 
 
-chrome web store extensions:
+**chrome web store extensions:**
 
 InVID WeVerify, ublock origin, adguard, downthemall, fireshot, singleFile, onetab, reveye reverse search, web archives
 
