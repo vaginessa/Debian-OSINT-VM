@@ -2,8 +2,6 @@
 
 OSINT tools you will need when researching a target. 
  
-These scripts are intended to be used on Debian 12
-
 Version of Python used:
 
 Python 3.11.2
