@@ -8,13 +8,11 @@ Python 3.11.2
 
 **Install:**
 
-Download and install debian 12 on your machine
-
 sudo bash debian_packages_osint.sh
 
-sudo bash snoint.sh
-
 bash debian_pipx_git_osint_tools.sh
+
+sudo bash snoint.sh
 
 sudo bash change_dns.sh
 
