@@ -26,7 +26,7 @@ Extract the archive file
 
 sudo tar -C /usr/local -xzf /home/$USER/Downloads/go{version of GO}linux-amd64.tar.gz
 
-Make sure that your PATH contains /usr/local/go/bin
+Make sure your PATH contains /usr/local/go/bin
 
 echo $PATH | grep "/usr/local/go/bin"
 
