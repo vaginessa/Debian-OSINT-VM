@@ -29,6 +29,8 @@ Make sure your PATH contains /usr/local/go/bin
 
 echo $PATH | grep "/usr/local/go/bin"
 
+nano .bashrc
+
 **Install go packages:**
 
 bash go.sh
