@@ -1,6 +1,6 @@
 # Debian_OSINT_Tools
 
-OSINT tools for researching a target. 
+OSINT tools for researching a target. OSINT virtual machines.
 
 <img src="debian.png" alt="debian os logo">
  
