@@ -7,6 +7,8 @@ OSINT tools for researching a target.
 
 **Install:**
 
+chmod +x *.sh
+
 sudo bash debian_packages_osint.sh
 
 bash debian_pipx_git_osint_tools.sh
