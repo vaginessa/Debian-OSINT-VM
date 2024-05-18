@@ -5,7 +5,6 @@ OSINT tools for researching a target.
 <img src="debian.png" alt="debian os logo">
  
 
-
 **Install:**
 
 sudo bash debian_packages_osint.sh
