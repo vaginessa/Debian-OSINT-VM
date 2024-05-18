@@ -4,9 +4,7 @@ OSINT tools for researching a target.
 
 <img src="debian.png" alt="debian os logo">
  
-Version of Python used:
 
-Python 3.11.2
 
 **Install:**
 
