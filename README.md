@@ -1,6 +1,6 @@
 # Debian_OSINT_Tools
 
-OSINT tools you will need when researching a target. 
+OSINT tools for researching a target. 
 
 <img src="debian.png" alt="debian os logo">
  
