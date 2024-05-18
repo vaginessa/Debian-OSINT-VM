@@ -1,6 +1,8 @@
 # Debian_OSINT_Tools
 
 OSINT tools you will need when researching a target. 
+
+<img src="debian.png" alt="debian os logo">
  
 Version of Python used:
 
