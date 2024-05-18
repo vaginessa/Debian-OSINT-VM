@@ -15,6 +15,8 @@ bash debian_pipx_git_osint_tools.sh
 
 sudo bash snoint.sh
 
+**Change DNS:**
+
 sudo bash change_dns.sh
 
 reboot
