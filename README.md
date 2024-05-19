@@ -2,7 +2,7 @@
 
 OSINT tools for researching a target. OSINT virtual machine.
 
-<img src="debian.png" alt="debian os logo">
+<img src="debian-wallpaper1920x1080.jpg" alt="black and red debian os logo">
  
 
 **Install:**
