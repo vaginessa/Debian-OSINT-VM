@@ -7,6 +7,10 @@ OSINT tools for researching a target. OSINT virtual machine.
 
 **Install:**
 
+Install Debian 12
+
+update and upgrade
+
 chmod +x *.sh
 
 sudo bash debian_packages_osint.sh
