@@ -1,4 +1,4 @@
-# Debian_OSINT_Tools
+# Debian_OSINT_VM
 
 OSINT tools for researching a target. OSINT virtual machine.
 
