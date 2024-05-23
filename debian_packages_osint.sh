@@ -9,7 +9,7 @@ apt install qgis ffmpeg idle ripgrep jq crunch ssh cherrytree -y
 apt install keepassxc remmina stegosuite exifprobe ruby-bundler mpg123 -y
 apt install thunderbird curl sq python3-lxml libre-dev  -y
 apt install snapd proxychains4 flowblade -y
-apt install autopsy sqlitebrowser -y
+apt install autopsy sqlitebrowser neovim -y
 apt install build-essential libcurl4-openssl-dev libxml2 libxml2-dev -y 
 apt install libxslt1-dev libgmp-dev zlib1g-dev -y
 
