@@ -1,5 +1,7 @@
 # Debian_OSINT_VM
 
+<img src="https://y.yarn.co/accae4d0-06cd-4667-b268-920e077f556a_text.gif" alt="So, you've been investigating me? gif">
+
 OSINT tools for researching a target. OSINT virtual machine.
 
 <img src="debian-wallpaper1920x1080.jpg" alt="black and red debian os logo">
