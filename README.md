@@ -8,7 +8,7 @@
 <div align="center">
  <img src="debian-wallpaper1920x1080.jpg" alt="black and red debian os logo" width="65%"> 
 </div>
- 
+<br><br>
 
 **Install:**
 
