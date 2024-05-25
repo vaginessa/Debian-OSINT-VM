@@ -48,24 +48,14 @@ bash go.sh
 
 **Downloads:**
 
-Latest Version of Go, Maltego, Burp Suite, Metasploit, Protonvpn, tor browser, google earth pro, google chrome
 
-https://go.dev/dl/
-
-https://www.maltego.com/downloads/
-
-https://portswigger.net/burp/communitydownload
-
-https://apt.metasploit.com/
-
-https://protonvpn.com/
-
-https://www.torproject.org/download/
-
-https://www.google.com/earth/about/versions/
-
-https://support.google.com/chrome/a/answer/9025903?hl=en
-
+<a href="https://go.dev/dl/">Go</a>, <a href="https://www.maltego.com/downloads/">Maltego</a>, 
+<a href="https://portswigger.net/burp/communitydownload">Burp Suite</a>, 
+<a href="https://apt.metasploit.com/">Metasploit</a>, 
+<a href="https://protonvpn.com/">Protonvpn</a>, 
+<a href="https://www.torproject.org/download/">tor browser</a>, 
+<a href="https://www.google.com/earth/about/versions/">google earth pro</a>, 
+<a href="https://support.google.com/chrome/a/answer/9025903?hl=en">google chrome</a>
 
 
 **firefox extensions:**
