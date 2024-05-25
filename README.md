@@ -9,7 +9,7 @@
 
 **Install:**
 
-Install Debian 12
+Install <a href="https://www.debian.org/download">Debian 12</a>
 
 update and upgrade
 
