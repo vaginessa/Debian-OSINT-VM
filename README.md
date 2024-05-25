@@ -53,9 +53,9 @@ bash go.sh
 <a href="https://portswigger.net/burp/communitydownload">Burp Suite</a>, 
 <a href="https://apt.metasploit.com/">Metasploit</a>, 
 <a href="https://protonvpn.com/">Protonvpn</a>, 
-<a href="https://www.torproject.org/download/">tor browser</a>, 
-<a href="https://www.google.com/earth/about/versions/">google earth pro</a>, 
-<a href="https://support.google.com/chrome/a/answer/9025903?hl=en">google chrome</a>
+<a href="https://www.torproject.org/download/">Tor Browser</a>, 
+<a href="https://www.google.com/earth/about/versions/">Google Earth Pro</a>, 
+<a href="https://support.google.com/chrome/a/answer/9025903?hl=en">Google Chrome</a>
 
 
 **firefox extensions:**
