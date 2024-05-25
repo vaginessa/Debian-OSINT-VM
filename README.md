@@ -82,6 +82,7 @@ InVID WeVerify, ublock origin, adguard, downthemall, fireshot, singleFile, oneta
 
 the chrome web store has a lot of useful AI web extensions, and other extensions that can aid in your research.
 
+**OSINT Techniques:**
 
 If you have read OSINT Techniques by Matthew Bazzell I would
 
