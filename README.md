@@ -1,6 +1,6 @@
 # Debian_OSINT_VM
 <div align="center">
- <img src="https://y.yarn.co/accae4d0-06cd-4667-b268-920e077f556a_text.gif" alt="So, you've been investigating me? gif" width="50%"> 
+ <img src="https://giffiles.alphacoders.com/222/222419.gif" alt="So, you've been investigating me? gif" width="50%"> 
 </div>
 
 <h2>OSINT tools for researching a target. OSINT virtual machine.</h2>
