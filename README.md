@@ -3,7 +3,7 @@
  <img src="https://giffiles.alphacoders.com/222/222419.gif" alt="So, you've been investigating me? gif" width="50%"> 
 </div>
 
-<h2>OSINT tools for researching a target. OSINT virtual machine.</h2>
+<h2>OSINT tools for researching. OSINT virtual machine.</h2>
 
 <div align="center">
  <img src="debian-wallpaper1920x1080.jpg" alt="black and red debian os logo" width="65%"> 
