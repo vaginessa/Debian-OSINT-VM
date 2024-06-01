@@ -1,12 +1,12 @@
 # Debian_OSINT_VM
 <div align="center">
- <img src="swords.gif" alt="Samurai swords." width="50%"> 
+ <img src="swords.gif" alt="Samurai swords." width="50%" height="50%"> 
 </div>
 
 <h2>OSINT tools for researching. OSINT virtual machine.</h2>
 
 <div align="center">
- <img src="debian-wallpaper1920x1080.jpg" alt="black and red debian os logo" width="65%"> 
+ <img src="debian-wallpaper1920x1080.jpg" alt="black and red debian os logo" width="65%" height="65%"> 
 </div>
 <br><br>
 
@@ -86,7 +86,7 @@ I would recommend using the search tools he provides. As well as the flow charts
 <br><br>
 <div align="center">
 
-  <img src="Anonymizing_virtual_machines_with_Whonix.png" width="80%">
+  <img src="Anonymizing_virtual_machines_with_Whonix.png" width="80%" height="80%">
   
 </div>
 <br><br><br>
