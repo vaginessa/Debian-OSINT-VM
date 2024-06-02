@@ -88,7 +88,7 @@ I would recommend using the search tools he provides. As well as the flow charts
 </h2>
 
 
-<br><br>
+<br>
 <div align="center">
 
   <img src="Anonymizing_virtual_machines_with_Whonix.png" width="80%" height="80%">
