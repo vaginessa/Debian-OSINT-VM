@@ -80,7 +80,7 @@ the chrome web store has a lot of useful AI web extensions, and other extensions
 If you have read <a href="https://www.osinttechniques.com/">OSINT Techniques</a> by Michael Bazzell
 
 I would recommend using the search tools he provides. As well as the flow charts and templates.
-<br>
+<br><br>
 <h2>
  
  **Anonymize virtual machines with <a href="https://www.whonix.org/wiki/Download">Whonix</a> for an extra layer of security:**
