@@ -1,6 +1,6 @@
 # Debian_OSINT_VM
 <div align="center">
- <img src="https://giffiles.alphacoders.com/222/222382.gif" alt="Samurai swords." width="50%" height="50%"> 
+ <img src="swords.gif" alt="Samurai swords." width="50%" height="50%"> 
 </div>
 
 <h2>OSINT tools for researching. OSINT virtual machine.</h2>
