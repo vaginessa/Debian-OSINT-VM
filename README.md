@@ -2,7 +2,7 @@
 <div align="center">
  <img src="swords.gif" alt="Samurai swords." width="50%" height="50%"> 
  <br><br>
- <p><i>"a good sword remains in its sheath"</i></p>
+ <p><i>"a good sword remains in it's sheath"</i></p>
 </div>
 <br><br>
 <h2>OSINT tools for researching. OSINT virtual machine.</h2>
