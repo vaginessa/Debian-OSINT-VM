@@ -12,7 +12,7 @@
 </div>
 <br><br>
 
-**Install:**
+## Install:
 
 Install <a href="https://www.debian.org/download">Debian 12</a>
 
@@ -31,7 +31,8 @@ sudo bash snoint.sh
 
 ```
 
-**Change DNS:**
+## Change DNS:
+
 
 sudo bash change_dns.sh
 
