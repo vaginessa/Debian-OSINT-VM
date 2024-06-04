@@ -31,7 +31,7 @@ sudo bash snoint.sh
 
 ```
 
-## Change DNS:
+**Change DNS:**
 
 ```console
 sudo bash change_dns.sh
@@ -40,7 +40,7 @@ reboot
 
 ```
 
-## How to install latest version of Go:
+**How to install latest version of Go:**
 
 Download the latest version of <a href="https://go.dev/dl/">Go</a>
 
@@ -58,7 +58,7 @@ nano .bashrc
 
 ```
 
-## Install go packages:
+**Install go packages:**
 
 ```console
 
