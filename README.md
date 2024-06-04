@@ -1,4 +1,5 @@
 # Debian_OSINT_VM
+<br>
 <div align="center">
  <img src="swords.gif" alt="Samurai swords." width="50%" height="50%"> 
  <br><br>
