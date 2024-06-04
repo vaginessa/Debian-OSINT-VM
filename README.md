@@ -12,7 +12,7 @@
 </div>
 <br><br>
 
-## Install:
+**Install:**
 
 Install <a href="https://www.debian.org/download">Debian 12</a>
 
