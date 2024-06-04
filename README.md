@@ -33,16 +33,20 @@ sudo bash snoint.sh
 
 ## Change DNS:
 
-
+```console
 sudo bash change_dns.sh
 
 reboot
+
+```
 
 **How to install latest version of Go:**
 
 Download the latest version of <a href="https://go.dev/dl/">Go</a>
 
 Extract the archive file
+
+```console
 
 sudo tar -C /usr/local -xzf /home/$USER/Downloads/go{version of GO}linux-amd64.tar.gz
 
@@ -52,10 +56,15 @@ echo $PATH | grep "/usr/local/go/bin"
 
 nano .bashrc
 
+```
+
 **Install go packages:**
+
+```console
 
 bash go.sh
 
+```
 
 **Downloads:**
 
