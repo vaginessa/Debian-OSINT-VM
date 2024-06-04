@@ -18,6 +18,8 @@ Install <a href="https://www.debian.org/download">Debian 12</a>
 
 update and upgrade
 
+```console
+
 chmod +x *.sh
 
 sudo bash debian_packages_osint.sh
@@ -25,6 +27,8 @@ sudo bash debian_packages_osint.sh
 bash debian_pipx_git_osint_tools.sh
 
 sudo bash snoint.sh
+
+```
 
 **Change DNS:**
 
