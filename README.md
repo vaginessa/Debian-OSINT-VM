@@ -19,6 +19,7 @@ Install <a href="https://www.debian.org/download">Debian 12</a>
 update and upgrade
 
 ```console
+git clone https://github.com/midnit3Z0mbi3/Debian_OSINT_VM.git
 
 chmod +x *.sh
 
