@@ -20,6 +20,8 @@ Install <a href="https://www.virtualbox.org/">VirtualBox</a>
 
 Create a new <a href="https://www.debian.org/download">Debian 12</a> Virtual Machine on VirtualBox.
 
+Gnome desktop environment works best with this Virtual Machine build.
+
 Start Virtual Machine
 
 Update and Upgrade
