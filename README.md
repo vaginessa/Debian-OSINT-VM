@@ -16,7 +16,7 @@
 
 **Install:**
 
-Install <a href="https://www.virtualbox.org/">VirtualBox</a>
+Install <a href="https://www.virtualbox.org/">VirtualBox</a> on host PC.
 
 Create a new <a href="https://www.debian.org/download">Debian 12</a> Virtual Machine on VirtualBox.
 
