@@ -20,6 +20,8 @@ Install <a href="https://www.virtualbox.org/">VirtualBox</a>
 
 Create a new <a href="https://www.debian.org/download">Debian 12</a> Virtual Machine on VirtualBox.
 
+Start Virtual Machine
+
 update and upgrade
 
 ```console
