@@ -16,6 +16,8 @@ pipx install whisper-ctranslate2
 pipx install checkdmarc
 pipx install shodan
 pipx install netlas
+pipx install postleaks
+pipx install postleaksNg
 pipx ensurepath
 
 cd
@@ -108,6 +110,7 @@ git clone https://github.com/MohammedAlsubhi/instashell-master.git
 git clone https://github.com/RedSiege/EyeWitness.git
 git clone https://github.com/TermuxHackz/X-osint
 git clone https://github.com/proabiral/Fresh-Resolvers.git
+git clone https://github.com/schooldropout1337/lazyegg.git
 
 python3 -m venv proxybroker2
 source proxybroker2/bin/activate
