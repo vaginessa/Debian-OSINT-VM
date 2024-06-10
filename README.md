@@ -22,9 +22,9 @@ Create a new <a href="https://www.debian.org/download">Debian 12</a> Virtual Mac
 
 Start Virtual Machine
 
-update and upgrade
+Update and Upgrade
 
-install git
+Install Github
 
 ```console
 git clone https://github.com/midnit3Z0mbi3/Debian_OSINT_VM.git
