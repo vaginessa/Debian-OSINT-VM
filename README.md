@@ -24,6 +24,8 @@ Start Virtual Machine
 
 update and upgrade
 
+install git
+
 ```console
 git clone https://github.com/midnit3Z0mbi3/Debian_OSINT_VM.git
 
