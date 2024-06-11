@@ -90,8 +90,8 @@ source wmn-pythonEnv/bin/activate
 pip install -r requirements.txt
 deactivate
 cd ~/programs/
-git clone https://github.com/GuidoBartoli/sherloq.git
-cd sherloq/gui
+git clone https://github.com/midnit3Z0mbi3/Sherloq-fork.git
+cd Sherloq-fork/gui
 python3 -m venv sherloqEnvironment
 source sherloqEnvironment/bin/activate
 pip install -r requirements.txt
@@ -108,7 +108,7 @@ git clone https://github.com/netlas-io/netlas-scripts.git
 git clone https://github.com/HACK3RY2J/Anon-SMS.git
 git clone https://github.com/MohammedAlsubhi/instashell-master.git
 git clone https://github.com/RedSiege/EyeWitness.git
-git clone https://github.com/TermuxHackz/X-osint
+git clone https://github.com/midnit3Z0mbi3/X-osint-fork.git
 git clone https://github.com/proabiral/Fresh-Resolvers.git
 git clone https://github.com/schooldropout1337/lazyegg.git
 
