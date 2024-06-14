@@ -26,9 +26,16 @@ Gnome desktop environment works best with this Virtual Machine build.
 
 Restart Virtual Machine
 
-Update and Upgrade
+```console
 
-Install Github
+add sbin to $PATH
+
+add $USER to "sudo" group
+
+update and upgrade
+
+install git
+```
 
 ```console
 git clone https://github.com/midnit3Z0mbi3/Debian_OSINT_VM.git
