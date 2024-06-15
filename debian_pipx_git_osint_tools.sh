@@ -90,8 +90,8 @@ source wmn-pythonEnv/bin/activate
 pip install -r requirements.txt
 deactivate
 cd ~/programs/
-git clone https://github.com/midnit3Z0mbi3/Sherloq-fork.git
-cd Sherloq-fork/gui
+git clone https://github.com/GuidoBartoli/sherloq.git
+cd sherloq/gui
 python3 -m venv sherloqEnvironment
 source sherloqEnvironment/bin/activate
 pip install -r requirements.txt
