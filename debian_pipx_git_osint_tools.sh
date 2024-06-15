@@ -41,7 +41,7 @@ cd ~/programs/
 git clone https://github.com/soxoj/maigret && cd maigret
 python3 -m venv maigretEnv
 source maigretEnv/bin/activate
-pip3 install -r requirements.txt 
+pip3 install .
 deactivate
 cd ~/programs/
 git clone https://github.com/D4Vinci/Cr3dOv3r.git
@@ -197,7 +197,6 @@ mkdir tor-links
 cd tor-links
 git clone https://github.com/BigggChungus/onion-links.git
 git clone https://github.com/01Kevin01/OnionLinksV3.git
-git clone https://github.com/The-Hidden-Wiki-URLs/2024.git
 
 cd
 mkdir ~/.config/amass
