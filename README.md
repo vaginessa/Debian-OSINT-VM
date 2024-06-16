@@ -1,11 +1,5 @@
 # Debian_OSINT_VM
-<br>
-<div align="center">
- <img src="swords.gif" alt="Samurai swords." width="50%" height="50%"> 
- <br><br>
- <p><i>"The best sword remains in its sheath."</i></p>
-</div>
-<br><br>
+
 <h2>OSINT tools for researching. OSINT virtual machine.</h2>
 
 <div align="center">
