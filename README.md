@@ -16,8 +16,6 @@ Create a new <a href="https://www.debian.org/download">Debian 12</a> Virtual Mac
 
 Install Debian 12 on Virtual Machine.
 
-Gnome desktop environment works best with this Virtual Machine build.
-
 Start Virtual Machine
 
 ```console
