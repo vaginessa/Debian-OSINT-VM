@@ -8,7 +8,7 @@ apt install mediainfo-gui libimage-exiftool-perl mat2 tor vlc marble -y
 apt install qgis ffmpeg idle ripgrep jq crunch ssh cherrytree -y
 apt install keepassxc remmina stegosuite exifprobe ruby-bundler mpg123 -y
 apt install thunderbird curl sq python3-lxml libre-dev -y
-apt install snapd proxychains4 flowblade cargo asciinema -y
+apt install snapd proxychains4 flowblade asciinema -y
 apt install autopsy sqlitebrowser neovim terminator -y
 apt install build-essential libcurl4-openssl-dev libxml2 libxml2-dev -y 
 apt install libxslt1-dev libgmp-dev zlib1g-dev -y
