@@ -90,6 +90,9 @@ bash go.sh
 <a href="https://www.torproject.org/download/">Tor Browser</a>, 
 <a href="https://www.google.com/earth/about/versions/">Google Earth Pro</a>, 
 <a href="https://support.google.com/chrome/a/answer/9025903?hl=en">Google Chrome</a>
+<a href="https://rustup.rs/">Rustup</a> an installer for the systems programming language Rust
+
+https://rustup.rs/
 
 
 **firefox extensions:**
