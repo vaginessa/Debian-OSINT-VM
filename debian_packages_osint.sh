@@ -27,7 +27,6 @@ gem install wpscan
 gem install evil-winrm
 
 snap install seclists
-snap install drawio
 snap install dbeaver-ce
 snap install powershell --classic
 snap install joplin-desktop
