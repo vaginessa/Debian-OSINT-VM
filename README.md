@@ -1,7 +1,5 @@
 # Debian_OSINT_VM
 
-<h2>OSINT tools for researching.</h2>
-
 <div align="center">
  <br>
  <img src="debian-wallpaper1920x1080.jpg" alt="black and red debian os logo" width="65%" height="65%"> 
