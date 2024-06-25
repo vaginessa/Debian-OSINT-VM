@@ -8,7 +8,111 @@
 </div>
 <br><br>
 
-**Install:**
+## Over 100+ OSINT Tools
+
+Python(pipx):
+
+ghunt,
+socialscan,
+holehe,
+xeuledoc,
+waybackpy,
+changedetection.io,
+archivebox,
+internetarchive,
+search-that-hash,
+name-that-hash,
+h8mail,
+domain-stats,
+gitem,
+whisper-ctranslate2,
+checkdmarc,
+shodan,
+netlas,
+postleaks,
+postleaksNg
+
+GitHub Repositories:
+
+
+Elasticsearch-Crawler,
+blackbird,
+Carbon14,
+maigret,
+Cr3dOv3r,
+BridgeKeeper,
+Elevate,
+pwnedOrNot,
+phoneinfoga,
+EXIF-scanner,
+LittleBrother,
+WhatsMyName-Python,
+gron,
+sherloq,
+spiderfoot,
+theHarvester,
+Spiderpig,
+WikiLeaker,
+ID-entify,
+ReverseIP,
+UhOh365,
+Anon-SMS,
+Wordlister,
+instashell,
+EyeWitness,
+Wordlister,
+netlas-scripts,
+Fresh-Resolvers,
+lazyegg,
+TrashSearch,
+agg,
+X-osint,
+DumpsterDiver,
+proxybroker2,
+metagoofil,
+recon-ng,
+sherlock,
+Sublist3r,
+Photon,
+FinalRecon,
+gophish,
+anonphisher,
+yt-dlp
+
+
+Apt Package Manager:
+
+ruby-dev, nmap, wireshark, tcpdump, ufw, postgresql, php,
+git, python3-venv, pipx, httrack, webhttrack, filezilla,
+mycli, pidgin, audacity, gimp, inkscape, librecad, ffuf,
+mediainfo-gui, libimage-exiftool-perl, mat2, tor, vlc, marble,
+qgis, ffmpeg, idle, ripgrep, jq, crunch, ssh, cherrytree,
+keepassxc, remmina, stegosuite, exifprobe, ruby-bundler, mpg123,
+thunderbird, curl, sq, python3-lxml, libre-dev,
+snapd, proxychains4, flowblade, asciinema,
+autopsy, sqlitebrowser, neovim, terminator,
+build-essential, libcurl4-openssl-dev, libxml2, libxml2-dev,
+libxslt1-dev, libgmp-dev, zlib1g-dev, npm
+
+
+Snap Packages:
+
+seclists, dbeaver-ce, powershell, joplin-desktop, youtube-dl-pro, ngrok, localxpose, telegram-desktop
+
+Go Packages:
+
+waybackurls,
+amass,
+amass oam-tools,
+gobuster,
+gospider,
+hakrawler,
+httprobe,
+gowitness,
+katana,
+gotop
+
+## **Install:**
 
 Install <a href="https://www.virtualbox.org/">VirtualBox</a> on host PC.
 
@@ -80,7 +184,7 @@ bash go.sh
 ```
 <br>
 
-**Downloads:**
+## **Downloads:**
 
 <a href="https://github.com/jgraph/drawio-desktop/releases/tag/v23.0.2">Draw.io</a>, 
 <a href="https://go.dev/dl/">Go</a>, <a href="https://www.maltego.com/downloads/">Maltego</a>, 
@@ -94,7 +198,7 @@ bash go.sh
 <a href="https://rustup.rs/">Rustup</a> an installer for the systems programming language Rust
 
 
-**firefox extensions:**
+## **firefox extensions:**
 
 firefox containers, ublock origin, downthemall, bulk media downloader, fireshot, nimbus, singleFile, exifviewer, user agent switcher, image search options, reveye reverse search,
 
@@ -102,13 +206,13 @@ search by image, ressurrect pages, web archives, copy selected links, onetab, st
 
 the firefox extension store, firefox ADD-Ons, has a lot of useful AI web extensions, and other extensions that can aid in your research. 
 
-**chrome web store extensions:**
+## **chrome web store extensions:**
 
 InVID WeVerify, ublock origin, adguard, downthemall, fireshot, singleFile, onetab, reveye reverse search, web archives
 
 the chrome web store has a lot of useful AI web extensions, and other extensions that can aid in your research.
 
-**OSINT Techniques:**
+## **OSINT Techniques:**
 
 If you have read <a href="https://www.osinttechniques.com/">OSINT Techniques</a> by Michael Bazzell
 
@@ -116,7 +220,7 @@ I would recommend using the search tools he provides. As well as the flow charts
 <br><br>
 <h2>
  
- **Anonymize virtual machines with <a href="https://www.whonix.org/wiki/Download">Whonix</a> for an extra layer of security:**
+## **Anonymize virtual machines with <a href="https://www.whonix.org/wiki/Download">Whonix</a> for an extra layer of security:**
  
 </h2>
 
