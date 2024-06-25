@@ -31,6 +31,11 @@ whisper-ctranslate2,
 checkdmarc,
 shodan,
 netlas,
+gitfive,
+ignorant,
+masto,
+social-analyzer,
+telepathy,
 postleaks,
 postleaksNg
 
