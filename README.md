@@ -92,7 +92,7 @@ qgis, ffmpeg, idle, ripgrep, jq, crunch, ssh, cherrytree,
 keepassxc, remmina, stegosuite, exifprobe, ruby-bundler, mpg123,
 thunderbird, curl, sq, python3-lxml, libre-dev,
 snapd, proxychains4, flowblade, asciinema,
-autopsy, sqlitebrowser, neovim, terminator,
+autopsy, sqlitebrowser, neovim,
 build-essential, libcurl4-openssl-dev, libxml2, libxml2-dev,
 libxslt1-dev, libgmp-dev, zlib1g-dev, npm
 
