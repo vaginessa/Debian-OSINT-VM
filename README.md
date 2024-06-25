@@ -1,6 +1,6 @@
 # Debian_OSINT_VM
 
-<h2>OSINT tools for researching. OSINT virtual machine.</h2>
+<h2>OSINT tools for researching.</h2>
 
 <div align="center">
  <br>
