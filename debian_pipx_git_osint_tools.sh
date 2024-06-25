@@ -196,6 +196,13 @@ tar -xf ffmpeg-master-latest-linux64-gpl.tar.xz
 rm ffmpeg-master-latest-linux64-gpl.tar.xz
 
 cd
+mkdir resources
+cd resources
+git clone https://github.com/swisskyrepo/InternalAllTheThings.git
+git clone https://github.com/andrewjkerr/security-cheatsheets.git
+git clone https://github.com/cipher387/Dorks-collections-list.git
+git clone https://github.com/cipher387/osint_stuff_tool_collection.git
+
 mkdir tor-links
 cd tor-links
 git clone https://github.com/BigggChungus/onion-links.git
