@@ -255,6 +255,10 @@ edit the URL: section of the bookmark. Change "USER" to your actual username.
 
 example "file:///home/zombi3/Desktop/tools/index.html"
 
+## OSINT Templates
+
+extract OSINT_Templates_FlowchartsAndDocs.tar.gz to your ~/Templates directory
+
  
 ## **Anonymize virtual machines with <a href="https://www.whonix.org/wiki/Download">Whonix</a> for an extra layer of security:**
 
