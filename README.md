@@ -245,6 +245,16 @@ InVID WeVerify, ublock origin, adguard, downthemall, fireshot, singleFile, oneta
 
 the chrome web store has a lot of useful AI web extensions, and other extensions that can aid in your research.
 
+## Custom Search Tools
+
+extract custom_search_tools.tar.gz to your ~/Desktop directory
+
+edit bookmark "Custom Search Tools"
+
+edit the URL: section of the bookmark. Change "USER" to your actual username. 
+
+example "file:///home/zombi3/Desktop/tools/index.html"
+
  
 ## **Anonymize virtual machines with <a href="https://www.whonix.org/wiki/Download">Whonix</a> for an extra layer of security:**
 
