@@ -245,12 +245,9 @@ InVID WeVerify, ublock origin, adguard, downthemall, fireshot, singleFile, oneta
 
 the chrome web store has a lot of useful AI web extensions, and other extensions that can aid in your research.
 
-<br>
  
 ## **Anonymize virtual machines with <a href="https://www.whonix.org/wiki/Download">Whonix</a> for an extra layer of security:**
 
-
-<br>
 <div align="center">
 
   <img src="Anonymizing_virtual_machines_with_Whonix.png" width="80%" height="80%">
