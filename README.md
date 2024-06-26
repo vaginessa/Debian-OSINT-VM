@@ -249,7 +249,9 @@ the chrome web store has a lot of useful AI web extensions, and other extensions
 
 extract custom_search_tools.tar.gz to your ~/Desktop directory
 
-edit bookmark "Custom Search Tools"
+Press Ctrl+Shift+o and import osint_bookmarks.json or osint_bookmarks.html
+
+Right-Click on "Custom Search Tools" Bookmark in the "Local Tools" folder, and select "edit bookmark"
 
 edit the URL: section of the bookmark. Change "USER" to your actual username. 
 
