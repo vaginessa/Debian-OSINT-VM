@@ -1,8 +1,8 @@
-# Debian_OSINT_VM
+# Debian OSINT VM
 
 
 ## Description
-OSINT virtual machine with 100+ OSINT tools, cheatsheets, bookmarks, and other resources to help you in your OSINT investigation. 
+OSINT virtual machine with 100+ OSINT tools, cheatsheets, custom search tools, bookmarks, and other resources to help you in your OSINT investigation. 
 
 <div align="center">
  <br>
