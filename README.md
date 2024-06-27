@@ -167,7 +167,7 @@ install git
 ```
 
 ```console
-git clone https://github.com/midnit3Z0mbi3/Debian_OSINT_VM.git
+git clone https://github.com/midnit3Z0mbi3/Debian-OSINT-VM.git
 
 chmod +x *.sh
 
