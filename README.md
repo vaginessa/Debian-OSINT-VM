@@ -270,7 +270,7 @@ extract OSINT_Templates_FlowchartsAndDocs.tar.gz to your ~/Templates directory
 
  
 ## **Anonymize virtual machines with <a href="https://www.whonix.org/wiki/Download">Whonix</a> for an extra layer of security:**
-
+<br>
 <div align="center">
 
   <img src="Anonymizing_virtual_machines_with_Whonix.png" width="80%" height="80%">
