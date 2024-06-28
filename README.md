@@ -83,7 +83,8 @@ Photon,
 FinalRecon,
 gophish,
 anonphisher,
-yt-dlp
+yt-dlp,
+GooFuzz
 
 
 Apt Package Manager:
