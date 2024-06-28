@@ -118,6 +118,7 @@ git clone https://github.com/rndinfosecguy/TrashSearch.git
 git clone https://github.com/asciinema/agg.git
 git clone https://github.com/TermuxHackz/X-osint.git
 git clone https://github.com/securing/DumpsterDiver.git
+git clone https://github.com/m3n0sd0n4ld/GooFuzz.git
 
 python3 -m venv proxybroker2
 source proxybroker2/bin/activate
