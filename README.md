@@ -240,9 +240,7 @@ bash go.sh
 ## **Downloads:**
 
 <a href="https://github.com/jgraph/drawio-desktop/releases/tag/v23.0.2">Draw.io</a>, 
-<a href="https://go.dev/dl/">Go</a>, <a href="https://www.maltego.com/downloads/">Maltego</a>, 
-<a href="https://portswigger.net/burp/communitydownload">Burp Suite</a>, 
-<a href="https://apt.metasploit.com/">Metasploit</a>, 
+<a href="https://go.dev/dl/">Go</a>, 
 <a href="https://protonvpn.com/">Protonvpn</a>, 
 <a href="https://www.torproject.org/download/">Tor Browser</a>, 
 <a href="https://www.google.com/earth/about/versions/">Google Earth Pro</a>, 
