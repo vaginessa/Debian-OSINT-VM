@@ -2,7 +2,7 @@
 
 
 apt install ruby-dev nmap wireshark tcpdump ufw postgresql php -y
-apt install git python3-venv pipx httrack webhttrack filezilla -y
+apt install git python3-venv pipx python3-pip httrack webhttrack filezilla -y
 apt install mycli pidgin audacity gimp inkscape librecad ffuf -y
 apt install mediainfo-gui libimage-exiftool-perl mat2 tor vlc marble -y
 apt install qgis ffmpeg idle ripgrep jq crunch ssh cherrytree -y
