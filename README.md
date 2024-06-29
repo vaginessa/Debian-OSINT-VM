@@ -172,7 +172,7 @@ install git
 ```
 Download Debian Conversion Script
 
-```
+```console
 git clone https://gitlab.com/parrotsec/project/debian-conversion-script.git
 
 cd debian-conversion-script
