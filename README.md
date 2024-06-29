@@ -101,7 +101,6 @@ libxslt1-dev, libgmp-dev, zlib1g-dev, npm
 
 Snap Packages:
 
-[seclists](https://snapcraft.io/seclists),
 [dbeaver-ce](https://snapcraft.io/dbeaver-ce),
 [powershell](https://snapcraft.io/powershell),
 [youtube-dl-pro](https://snapcraft.io/youtube-dl-pro),
