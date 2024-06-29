@@ -170,6 +170,19 @@ update and upgrade
 
 install git
 ```
+Download Debian Conversion Script
+
+```
+git clone https://gitlab.com/parrotsec/project/debian-conversion-script.git
+
+cd debian-conversion-script
+
+chmod +x ./install.sh
+
+sudo ./install.sh
+
+```
+
 
 ```console
 git clone https://github.com/midnit3Z0mbi3/Debian-OSINT-VM.git
