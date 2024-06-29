@@ -170,7 +170,7 @@ update and upgrade
 
 install git
 ```
-Download Debian Conversion Script
+Debian Conversion Script for Parrot OS
 
 ```console
 git clone https://gitlab.com/parrotsec/project/debian-conversion-script.git
@@ -182,6 +182,8 @@ chmod +x ./install.sh
 sudo ./install.sh
 
 ```
+
+Install OSINT Tools
 
 
 ```console
