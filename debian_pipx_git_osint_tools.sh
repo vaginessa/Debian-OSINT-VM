@@ -148,20 +148,6 @@ source spiderfootEnvironment/bin/activate
 pip install -r requirements.txt
 deactivate
 cd ~/programs/
-git clone https://github.com/lanmaster53/recon-ng.git
-cd recon-ng
-python3 -m venv recon-ngEnvironment
-source recon-ngEnvironment/bin/activate
-pip install -r REQUIREMENTS
-deactivate
-cd ~/programs/
-git clone https://github.com/sherlock-project/sherlock.git
-cd sherlock
-python3 -m venv SherlockEnvironment
-source SherlockEnvironment/bin/activate
-pip install -r requirements.txt
-deactivate
-cd ~/programs/
 git clone https://github.com/aboul3la/Sublist3r.git
 cd Sublist3r
 python3 -m venv Sublist3rEnvironment
