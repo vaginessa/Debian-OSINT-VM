@@ -13,7 +13,6 @@ apt install autopsy sqlitebrowser neovim libxcb-cursor0 -y
 apt install build-essential libcurl4-openssl-dev libxml2 libxml2-dev -y 
 apt install libxslt1-dev libgmp-dev zlib1g-dev -y
 apt install npm -y
-apt purge -y theharvester
 
 systemctl enable ufw
 ufw enable
