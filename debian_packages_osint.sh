@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-apt install ruby-dev nmap wireshark tcpdump ufw postgresql php -y
+apt install ruby-dev nmap wireshark tcpdump postgresql php -y
 apt install git python3-venv pipx python3-pip httrack webhttrack filezilla -y
 apt install mycli pidgin audacity gimp inkscape librecad ffuf -y
 apt install mediainfo-gui libimage-exiftool-perl mat2 tor vlc marble -y
@@ -15,8 +15,7 @@ apt install libxslt1-dev libgmp-dev zlib1g-dev -y
 apt install npm -y
 apt purge -y theharvester
 apt autoremove -y
-systemctl enable ufw
-ufw enable
+
 systemctl start ssh
 systemctl enable ssh
 systemctl start postgresql
