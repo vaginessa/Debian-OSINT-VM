@@ -29,7 +29,6 @@ Python(pipx):
 [gitem](https://github.com/mschwager/gitem),
 [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2),
 [checkdmarc](https://github.com/domainaware/checkdmarc),
-[shodan](https://github.com/achillean/shodan-python),
 [netlas](https://github.com/netlas-io/netlas-python),
 [ignorant](https://github.com/megadose/ignorant),
 [masto](https://github.com/C3n7ral051nt4g3ncy/Masto),
