@@ -18,7 +18,6 @@ pipx install social-analyzer
 pipx install recoverpy
 pipx install whisper-ctranslate2
 pipx install checkdmarc
-pipx install shodan
 pipx install netlas
 pipx install postleaks
 pipx install postleaksNg
