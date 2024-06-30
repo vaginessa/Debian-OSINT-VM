@@ -71,7 +71,6 @@ GitHub Repositories:
 [DumpsterDiver](https://github.com/securing/DumpsterDiver.git),
 [metagoofil](https://github.com/opsdisk/metagoofil.git),
 [recon-ng](https://github.com/lanmaster53/recon-ng.git),
-[sherlock](https://github.com/sherlock-project/sherlock.git),
 [Sublist3r](https://github.com/aboul3la/Sublist3r.git),
 [Photon](https://github.com/s0md3v/Photon.git),
 [FinalRecon](https://github.com/thewhiteh4t/FinalRecon.git),
