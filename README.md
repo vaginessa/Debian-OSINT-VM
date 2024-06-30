@@ -114,7 +114,6 @@ Go Packages:
 [waybackurls](https://github.com/tomnomnom/waybackurls),
 [amass](https://github.com/owasp-amass/amass),
 [amass oam-tools](https://github.com/owasp-amass/oam-tools),
-[gobuster](https://github.com/OJ/gobuster),
 [gospider](https://github.com/jaeles-project/gospider),
 [hakrawler](https://github.com/hakluke/hakrawler),
 [httprobe](https://github.com/tomnomnom/httprobe),
