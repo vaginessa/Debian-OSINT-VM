@@ -36,6 +36,7 @@ Python(pipx):
 [recoverpy](https://github.com/PabloLec/recoverpy),
 [postleaks](https://github.com/cosad3s/postleaks),
 [postleaksNg](https://github.com/six2dez/postleaksNg)
+[Androguard](https://github.com/androguard/androguard)
 
 GitHub Repositories:
 
@@ -145,6 +146,8 @@ Templates for OSINT Flowcharts and Documents
 [swisskyrepo InternalAllTheThings](https://github.com/swisskyrepo/InternalAllTheThings.git) - Active Directory and Internal Pentest Cheatsheets 
 
 [andrewjkerr security-cheatsheets](https://github.com/andrewjkerr/security-cheatsheets.git) - A collection of cheatsheets for various infosec tools and topics.  
+
+[awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security)
 
 
 ## **Install:**
