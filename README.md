@@ -147,7 +147,7 @@ Templates for OSINT Flowcharts and Documents
 
 [andrewjkerr security-cheatsheets](https://github.com/andrewjkerr/security-cheatsheets.git) - A collection of cheatsheets for various infosec tools and topics.  
 
-[awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security)
+[awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff.
 
 
 ## **Install:**
