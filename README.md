@@ -35,7 +35,7 @@ Python(pipx):
 [social-analyzer](https://github.com/qeeqbox/social-analyzer),
 [recoverpy](https://github.com/PabloLec/recoverpy),
 [postleaks](https://github.com/cosad3s/postleaks),
-[postleaksNg](https://github.com/six2dez/postleaksNg)
+[postleaksNg](https://github.com/six2dez/postleaksNg),
 [Androguard](https://github.com/androguard/androguard)
 
 GitHub Repositories:
