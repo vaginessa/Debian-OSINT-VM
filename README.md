@@ -153,6 +153,25 @@ Templates for OSINT Flowcharts and Documents
 
 [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff.
 
+## Custom Search Tools
+
+extract custom_search_tools.tar.gz and osint_bookmarks.tar.gz to your ~/Desktop directory
+
+Open your browser
+
+Press Ctrl+Shift+o and import osint_bookmarks.json or osint_bookmarks.html
+
+Right-Click on "Custom Search Tools" Bookmark in the "Local Tools" folder, and select "edit bookmark"
+
+edit the URL: section of the bookmark. Change "USER" to your actual username. 
+
+example "file:///home/zombi3/Desktop/tools/index.html"
+
+## OSINT Templates
+
+extract OSINT_Templates_FlowchartsAndDocs.tar.gz to your ~/Templates directory
+
+
 
 ## **Install:**
 
@@ -267,23 +286,6 @@ InVID WeVerify, ublock origin, adguard, downthemall, fireshot, singleFile, oneta
 
 the chrome web store has a lot of useful AI web extensions, and other extensions that can aid in your research.
 
-## Custom Search Tools
-
-extract custom_search_tools.tar.gz and osint_bookmarks.tar.gz to your ~/Desktop directory
-
-Open your browser
-
-Press Ctrl+Shift+o and import osint_bookmarks.json or osint_bookmarks.html
-
-Right-Click on "Custom Search Tools" Bookmark in the "Local Tools" folder, and select "edit bookmark"
-
-edit the URL: section of the bookmark. Change "USER" to your actual username. 
-
-example "file:///home/zombi3/Desktop/tools/index.html"
-
-## OSINT Templates
-
-extract OSINT_Templates_FlowchartsAndDocs.tar.gz to your ~/Templates directory
 
  
 ## **Anonymize virtual machines with <a href="https://www.whonix.org/wiki/Download">Whonix</a> for an extra layer of security:**
