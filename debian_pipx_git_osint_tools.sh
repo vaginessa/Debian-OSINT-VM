@@ -142,6 +142,11 @@ source proxybroker2/bin/activate
 pip install -U git+https://github.com/bluet/proxybroker2.git
 deactivate
 
+python -m venv TREAVORproxy
+source TREAVORproxy/bin/activate
+pip install git+https://github.com/blacklanternsecurity/trevorproxy
+deactivate
+
 
 cd ~/programs/
 git clone https://github.com/laramies/theHarvester.git
