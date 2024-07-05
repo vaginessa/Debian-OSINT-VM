@@ -277,6 +277,9 @@ bash go.sh
 
 [AIChat: All-in-one AI CLI Too](https://github.com/sigoden/aichat)
 
+```console
+cargo install aichat
+```
 
 ## **firefox extensions:**
 
