@@ -3,7 +3,7 @@
 
 apt install ruby-dev tcpdump postgresql php emacs -y
 apt install git python3-venv pipx python3-pip httrack webhttrack filezilla -y
-apt install mycli pidgin audacity gimp inkscape librecad libreoffice ffuf -y
+apt install mycli pidgin audacity gimp inkscape ffuf -y
 apt install mediainfo-gui libimage-exiftool-perl mat2 tor vlc marble -y
 apt install qgis ffmpeg idle ripgrep jq crunch ssh cherrytree -y
 apt install keepassxc remmina stegosuite exifprobe ruby-bundler mpg123 -y
