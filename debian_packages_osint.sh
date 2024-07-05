@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-apt install ruby-dev nmap wireshark tcpdump postgresql php -y
+apt install ruby-dev tcpdump postgresql php -y
 apt install git python3-venv pipx python3-pip httrack webhttrack filezilla -y
 apt install mycli pidgin audacity gimp inkscape librecad ffuf -y
 apt install mediainfo-gui libimage-exiftool-perl mat2 tor vlc marble -y
@@ -9,7 +9,7 @@ apt install qgis ffmpeg idle ripgrep jq crunch ssh cherrytree -y
 apt install keepassxc remmina stegosuite exifprobe ruby-bundler mpg123 -y
 apt install thunderbird curl sq python3-lxml libre-dev -y
 apt install snapd proxychains4 flowblade asciinema seclists -y
-apt install autopsy sqlitebrowser neovim libxcb-cursor0 -y
+apt install sqlitebrowser neovim libxcb-cursor0 -y
 apt install build-essential libcurl4-openssl-dev libxml2 libxml2-dev -y 
 apt install libxslt1-dev libgmp-dev zlib1g-dev -y
 apt install npm -y
