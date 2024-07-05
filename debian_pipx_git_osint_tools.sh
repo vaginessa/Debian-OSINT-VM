@@ -148,6 +148,11 @@ source TREAVORproxy/bin/activate
 pip install git+https://github.com/blacklanternsecurity/trevorproxy
 deactivate
 
+python -m venv pyGPT_venv
+source pyGPT_venv/bin/activate
+pip install pygpt-net
+deactivate
+
 
 cd ~/programs/
 git clone https://github.com/laramies/theHarvester.git
