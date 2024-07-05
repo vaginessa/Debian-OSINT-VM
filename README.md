@@ -36,7 +36,7 @@ Python(pipx):
 [recoverpy](https://github.com/PabloLec/recoverpy),
 [postleaks](https://github.com/cosad3s/postleaks),
 [postleaksNg](https://github.com/six2dez/postleaksNg),
-[Androguard](https://github.com/androguard/androguard)
+[Androguard](https://github.com/androguard/androguard),
 [BBot](https://github.com/blacklanternsecurity/bbot)
 
 GitHub Repositories:
