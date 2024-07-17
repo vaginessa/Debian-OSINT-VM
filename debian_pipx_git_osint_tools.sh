@@ -120,6 +120,8 @@ git clone https://github.com/asciinema/agg.git
 git clone https://github.com/TermuxHackz/X-osint.git
 git clone https://github.com/securing/DumpsterDiver.git
 git clone https://github.com/m3n0sd0n4ld/GooFuzz.git
+git clone https://github.com/TarlogicSecurity/BlueSpy.git
+
 
 cd ~/programs/
 git clone https://github.com/chm0dx/creepyCrawler.git
