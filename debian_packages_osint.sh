@@ -25,7 +25,6 @@ gem install mechanize
 gem install colorize
 gem install wpscan
 gem install evil-winrm
-gem install ronin-recon
 
 snap install dbeaver-ce
 snap install powershell --classic
