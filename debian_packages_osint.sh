@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-apt install ruby-dev tcpdump postgresql php emacs -y
+apt install ruby-dev tcpdump postgresql php emacs redis-tools -y
 apt install git python3-venv pipx python3-pip httrack webhttrack filezilla -y
 apt install mycli pidgin audacity gimp inkscape ffuf -y
 apt install mediainfo-gui libimage-exiftool-perl mat2 tor vlc marble -y
@@ -15,6 +15,8 @@ apt install libxslt1-dev libgmp-dev zlib1g-dev -y
 apt install npm -y
 apt purge -y theharvester
 apt autoremove -y
+
+npm install -g ftp-spider
 
 systemctl start ssh
 systemctl enable ssh
