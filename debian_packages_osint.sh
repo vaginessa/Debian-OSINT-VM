@@ -12,7 +12,7 @@ apt install snapd proxychains4 flowblade asciinema seclists -y
 apt install sqlitebrowser neovim libxcb-cursor0 -y
 apt install build-essential libcurl4-openssl-dev libxml2 libxml2-dev -y 
 apt install libxslt1-dev libgmp-dev zlib1g-dev -y
-apt install npm freerdp2-x11 ftp -y
+apt install npm freerdp2-x11 ftp smbclient -y
 apt purge -y theharvester
 apt autoremove -y
 
