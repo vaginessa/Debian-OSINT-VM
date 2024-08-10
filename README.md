@@ -91,6 +91,7 @@ GitHub Repositories:
 [BlueSpy](https://github.com/TarlogicSecurity/BlueSpy),
 [ronin-recon](https://github.com/ronin-rb/ronin-recon),
 [DPULSE](https://github.com/OSINT-TECHNOLOGIES/dpulse)
+[mongodb](https://github.com/mongodb/mongo)
 
 
 Apt Package Manager:
@@ -139,9 +140,6 @@ Npm Packages:
 
 [ftp-spider](https://github.com/j3lte/ftp-spider)
 
-MongoDB Database:
-
-[mongodb](https://github.com/mongodb/mongo)
 
 ## Resources
 
