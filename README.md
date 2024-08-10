@@ -38,7 +38,8 @@ Python(pipx):
 [postleaksNg](https://github.com/six2dez/postleaksNg),
 [Androguard](https://github.com/androguard/androguard),
 [BBot](https://github.com/blacklanternsecurity/bbot),
-[toutatis](https://github.com/megadose/toutatis)
+[toutatis](https://github.com/megadose/toutatis),
+[poetry](https://pypi.org/project/poetry/)
 
 GitHub Repositories:
 
@@ -88,8 +89,8 @@ GitHub Repositories:
 [TREVORproxy](https://github.com/blacklanternsecurity/TREVORproxy),
 [PyGPT](https://github.com/szczyglis-dev/py-gpt),
 [BlueSpy](https://github.com/TarlogicSecurity/BlueSpy),
-[ronin-recon](https://github.com/ronin-rb/ronin-recon)
-
+[ronin-recon](https://github.com/ronin-rb/ronin-recon),
+[DPULSE](https://github.com/OSINT-TECHNOLOGIES/dpulse)
 
 
 Apt Package Manager:
@@ -104,7 +105,7 @@ thunderbird, curl, sq, python3-lxml, libre-dev,
 snapd, proxychains4, flowblade, asciinema,
 autopsy, sqlitebrowser, neovim,
 build-essential, libcurl4-openssl-dev, libxml2, libxml2-dev,
-libxslt1-dev, libgmp-dev, zlib1g-dev, npm
+libxslt1-dev, libgmp-dev, zlib1g-dev, npm, redis-tools
 
 
 Snap Packages:
@@ -133,6 +134,10 @@ Go Packages:
 [hauditor](https://github.com/trap-bytes/hauditor),
 [gungnir](https://github.com/g0ldencybersec/gungnir),
 [oneshell](https://github.com/tantosec/oneshell)
+
+Npm Packages:
+
+[ftp-spider](https://github.com/j3lte/ftp-spider)
 
 ## Resources
 
