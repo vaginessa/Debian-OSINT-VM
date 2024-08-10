@@ -107,6 +107,11 @@ cd ~/programs/
 git clone https://github.com/OSINT-TECHNOLOGIES/dpulse
 cd dpulse/
 poetry install
+cd ~/programs/
+mkdir mongodb
+cd mongodb
+curl -O https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-3.4.7.tgz
+tar xvf mongodb-linux-x86_64-3.4.7.tgz
 
 cd ~/programs/
 git clone https://github.com/hatlord/Spiderpig.git
