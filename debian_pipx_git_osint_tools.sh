@@ -24,6 +24,7 @@ pipx install postleaksNg
 pipx install androguard
 pipx install bbot
 pipx install toutatis
+pipx install poetry
 pipx ensurepath
 
 cd
@@ -102,6 +103,10 @@ python3 -m venv sherloqEnvironment
 source sherloqEnvironment/bin/activate
 pip install -r requirements.txt
 deactivate
+cd ~/programs/
+git clone https://github.com/OSINT-TECHNOLOGIES/dpulse
+cd dpulse/
+poetry install
 
 cd ~/programs/
 git clone https://github.com/hatlord/Spiderpig.git
