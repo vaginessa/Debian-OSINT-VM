@@ -16,8 +16,6 @@ apt install npm freerdp2-x11 ftp smbclient -y
 apt purge -y theharvester
 apt autoremove -y
 
-npm install -g ftp-spider
-
 systemctl start ssh
 systemctl enable ssh
 systemctl start postgresql
