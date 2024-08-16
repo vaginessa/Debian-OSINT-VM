@@ -136,10 +136,6 @@ Go Packages:
 [gungnir](https://github.com/g0ldencybersec/gungnir),
 [oneshell](https://github.com/tantosec/oneshell)
 
-Npm Packages:
-
-[ftp-spider](https://github.com/j3lte/ftp-spider)
-
 
 ## Resources
 
