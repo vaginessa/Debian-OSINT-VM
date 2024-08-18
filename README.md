@@ -91,7 +91,7 @@ GitHub Repositories:
 [BlueSpy](https://github.com/TarlogicSecurity/BlueSpy),
 [ronin-recon](https://github.com/ronin-rb/ronin-recon),
 [DPULSE](https://github.com/OSINT-TECHNOLOGIES/dpulse),
-[mongodb](https://github.com/mongodb/mongo)
+[mongodb](https://github.com/mongodb/mongo),
 [Darkus](https://github.com/Lucksi/Darkus)
 
 
